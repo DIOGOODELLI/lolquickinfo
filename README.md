@@ -8,7 +8,7 @@
           <th colspan="2">Home screen</th>
         </tr>
         <tr>
-          <td> <img src="a.PNG" height="320" width="250"> </td>
+          <td> <img src="a.PNG" height="250" width="370"> </td>
           <td >This is the first screen.</td>
         </tr>
         <tr>
