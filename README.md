@@ -59,11 +59,17 @@
           <td > by clicking the " eye " members of the teams will be displayed ... this time we conducted a control requests ... You can only search one every 10 seconds .</td>
         </tr>
 		
+		<th colspan="2">Results..</th>
+        </tr>
+        <tr>
+          <td > 		
 		The goal of the app is to facilitate the analysis of the last matches of the members of the game. Avoiding snowball , making the most balanced matches . <br>
 		
 		Do not use ofencivos names only name that indicate whether help is very necessary. <br>
 		
-		I have 10 friends tested the app is the results are good ... it is possible to provide for a stomp, and prevent it from happening . <br>
+		I have 10 friends tested the app is the results are good ... it is possible to provide for a stomp, and prevent it from happening . <br></td>
+        </tr>
+
 		
     </table>
       
