@@ -4,6 +4,8 @@
   </head>
   <body>
       <center><h1>TITLE APP: LOL QUICK INFO<h1></center>
+      <center><h2>APP FOR ANDROID, IOS, WINDOWS PHONE<h2></center>
+      
       <table style="width:100%;  border: 1px solid black; border-collapse: collapse;">
         <tr>
           <th colspan="2">Home screen</th>
