@@ -5,6 +5,15 @@
   <body>
       <center><h1>TITLE APP: LOL QUICK INFO<h1></center>
       <center><h2>APP FOR ANDROID, IOS, WINDOWS PHONE<h2></center>
+      <center>
+        <h2>
+        Disclaimer
+        </h2>
+        <br>
+         <h3>
+	This product is not endorsed, certified or otherwise approved in any way by Riot Games, Inc. or any of its affiliates.
+	</h3>
+      </center>
       <table style="width:100%;  border: 1px solid black; border-collapse: collapse;">
         <tr>
           <th colspan="2">Home screen</th>
