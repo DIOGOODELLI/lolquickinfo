@@ -18,6 +18,10 @@
         <tr>
           <th colspan="2">Home screen</th>
         </tr>
+       	<tr>
+          <td> <img src="screen.PNG" height="270" width="370"> </td>
+          <td >SPLASH SCREEN WITH Disclaimer.</td>
+        </tr>
         <tr>
           <td> <img src="a.PNG" height="270" width="370"> </td>
           <td >This is the first screen.</td>
